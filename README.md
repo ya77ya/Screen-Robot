@@ -1,2 +1,2 @@
 # Screen-Robot
-Design the robot that carry screen to display advisements
+Design the robot that carries a screen to display advertisements
