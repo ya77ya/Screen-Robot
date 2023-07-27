@@ -27,7 +27,7 @@ To move the head need two servo motors one of the motors moves up to down, and t
 ![screen](https://github.com/ya77ya/Screen-Robot/assets/90250848/fee90843-c17d-47bc-bda6-ad22bf84344f)
 
 
-### Suspension System  for Wheel Robot
+### Suspension System  for Wheel's Robot
 Designing the brushless motor wheel and the suspension system for the Robot to reduce the vibration, and keep the robot balance 
 
 ![Animation](https://user-images.githubusercontent.com/90250848/187029543-7db81867-ac48-420c-841e-1445f361e4b2.gif)
